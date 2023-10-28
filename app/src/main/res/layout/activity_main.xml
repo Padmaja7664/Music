@@ -8,21 +8,19 @@
     tools:context=".MainActivity">
 
 
+
     <TextView
         android:id="@+id/tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-<<<<<<< HEAD
-        android:text="MUSICAL!!"
-=======
         android:text="MUSICAL!!!"
->>>>>>> bcd32cccc50f8f1a9b1c7063faa3967ef407b18b
         android:textStyle="bold"
         android:textSize="55dp"
         android:gravity="center"
         android:layout_gravity="center"
         android:layout_margin="30dp"
-         />
+        />
+
 
     <ImageView
         android:id="@+id/img"
