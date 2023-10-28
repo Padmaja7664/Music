@@ -1,11 +1,9 @@
-# Seven
-Listen to the music Seven 7️⃣ 🎵 🎵 7️⃣
+# MUSICAL
 
+Listen to the instrumental music 🎵 🎵 🎼 🎼
 
-![musicss](https://github.com/Padmaja7664/Seven-Music/assets/96992366/908d740d-a304-4d58-a95e-a07a86da93f5)
+Media player usage in Android Application.
 
+![Screenshot](https://github.com/Padmaja7664/MediaPlayer/assets/96992366/d2a3b652-a4ea-45ef-8302-875377045809)
 
-
-
-https://github.com/Padmaja7664/Seven-Music/assets/96992366/4345d5c1-a586-4d4c-9da9-989d95964f00
-
+[Appvideo.webm](https://github.com/Padmaja7664/MediaPlayer/assets/96992366/46c7050c-adc9-4094-9f6c-731355bfc9ff)
